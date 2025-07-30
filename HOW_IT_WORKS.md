@@ -3,7 +3,6 @@
 
 ## HOW_IT_WORKS.md
 
-markdown
 # How the Advanced Python Calculator Works
 
 ## Overview
